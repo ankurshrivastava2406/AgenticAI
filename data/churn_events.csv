@@ -1,0 +1,4 @@
+customer_id,churn_date,churn_reason
+C001,2023-08-01,Price Increase
+C003,2023-06-15,Low Usage
+C005,2023-09-10,Switched to Competitor

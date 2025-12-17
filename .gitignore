@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda / virtual env
+.env
+.venv
+agentic_ai_analyst/
+
+# OS
+.DS_Store
+
+# Memory (optional – comment if you want to keep it)
+memory/agent_memory.json

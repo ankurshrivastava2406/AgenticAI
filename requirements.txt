@@ -1,0 +1,7 @@
+langchain 
+langchain_community 
+pandas
+numpy 
+pydantic
+python-dotenv 
+Pathlib

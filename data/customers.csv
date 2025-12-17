@@ -1,0 +1,7 @@
+customer_id,region,segment,signup_date
+C001,APAC,SMB,2022-01-15
+C002,APAC,Enterprise,2021-11-10
+C003,EMEA,SMB,2022-03-05
+C004,NA,MidMarket,2021-06-20
+C005,APAC,SMB,2022-07-12
+C006,EMEA,Enterprise,2021-09-30
