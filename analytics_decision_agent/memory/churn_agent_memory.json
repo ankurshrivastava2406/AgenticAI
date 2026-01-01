@@ -1,0 +1,130 @@
+[
+  {
+    "timestamp": "2025-12-19T14:41:53.236279",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 42,
+      "support_tickets_last_month": 1
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "HIGH",
+      "reason": "Usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T14:41:53.236230"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T14:43:18.646186",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 42,
+      "support_tickets_last_month": 1
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "HIGH",
+      "reason": "Usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T14:43:18.646129"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T15:08:47.772082",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 42,
+      "support_tickets_last_month": 1
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "LOW",
+      "reason": "Stable usage and low support tickets",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T15:08:47.772041"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T15:09:30.219175",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "LOW",
+      "reason": "Stable usage and low support tickets",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T15:09:30.219136"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T15:10:22.373148",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "LOW",
+      "reason": "Stable usage and low support tickets",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T15:10:22.373106"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T15:10:23.875593",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "LOW",
+      "reason": "Stable usage and low support tickets",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T15:10:23.875551"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T15:10:27.218527",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "LOW",
+      "reason": "Stable usage and low support tickets",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T15:10:27.218484"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T15:10:45.544656",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "customer_id": "CUST_001",
+      "churn_risk": "LOW",
+      "reason": "Stable usage and low support tickets",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2025-12-19T15:10:45.544607"
+    }
+  }
+]
