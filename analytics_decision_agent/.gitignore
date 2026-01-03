@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+aiprojects/
+
+# OS files
+.DS_Store
+
+
+.env
+
+# Agent memory (runtime data)
+memory/*.json

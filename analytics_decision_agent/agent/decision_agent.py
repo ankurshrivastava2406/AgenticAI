@@ -7,9 +7,9 @@ class AnalyticsDecisionAgent:
         self.agent_name =agent_name
         self.created_at = datetime.utcnow()
         self._observation =None 
-        self.memory = (
-            AppendOnlyMemory(memory_path)
-            if memory_path else None)
+        self.memory = (AppendOnlyMemory(memory_path) if memory_path else None)
+
+        
 
     def observe(self, data:Dict[str,Any])-> None:
         self._observation =data

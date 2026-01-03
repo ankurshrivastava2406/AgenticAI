@@ -126,5 +126,491 @@
       "agent": "ChurnRiskAgent",
       "timestamp": "2025-12-19T15:10:45.544607"
     }
+  },
+  {
+    "timestamp": "2026-01-01T14:35:30.362035",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:35:30.361971"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T14:35:53.638105",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:35:53.637753"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T14:40:24.037286",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:40:24.037249"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T14:50:53.864941",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:50:53.864900"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T14:51:31.722548",
+    "observation": {
+      "customer_id": "CUST_001",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:51:31.722502"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T14:56:59.433820",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 67,
+      "support_tickets_last_month": 4
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:56:59.433778"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T14:58:51.193826",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 70,
+      "support_tickets_last_month": 5
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T14:58:51.193776"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T15:00:32.495247",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T15:00:32.495194"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T15:01:23.209877",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T15:01:23.209825"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T15:04:26.195890",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-01T15:04:26.195845"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T08:07:35.841681",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T08:07:35.841639"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T08:09:31.362221",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T08:09:31.362164"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T08:10:52.108680",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T08:10:52.108586"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T08:11:25.935706",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T08:11:25.935286"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T08:12:26.874999",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T08:12:26.874533"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T08:20:38.606434",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T08:20:38.605940"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:34:02.835438",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:34:02.835057"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:34:39.725273",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:34:39.725026"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:35:36.722675",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:35:36.722462"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:37:03.339439",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:37:03.339049"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:39:26.341753",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:39:26.341374"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:40:01.339521",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:40:01.339185"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:41:12.432599",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:41:12.432370"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T13:59:59.937989",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "LOW",
+      "reason": "Recent past decisions indicate repeated HIGH churn risk, but current observation does not warrant escalation.",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T13:59:59.937801"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T15:58:15.307853",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6,
+      "revenue_drop_percentage": 27
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "LOW",
+      "reason": "Recent past decisions indicate repeated HIGH churn risk, but current observation does not warrant escalation.",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T15:58:15.307659"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T15:59:33.955446",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6,
+      "revenue_drop_percentage": 27
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "LOW",
+      "reason": "Recent past decisions indicate repeated HIGH churn risk, but current observation does not warrant escalation.",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T15:59:33.955223"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T16:00:12.414256",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6,
+      "revenue_drop_percentage": 27
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "LOW",
+      "reason": "Recent past decisions indicate repeated HIGH churn risk, but current observation does not warrant escalation.",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T16:00:12.413993"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T16:03:04.155803",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6,
+      "revenue_drop_percentage": 27
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "HIGH",
+      "reason": "Deterministic fallback: usage drop or high support tickets",
+      "recommended_action": "Proactive retention outreach",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T16:03:04.155556"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T17:04:30.139969",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6,
+      "revenue_drop_percentage": 27
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "LOW",
+      "reason": "Recent past decisions indicate repeated HIGH churn risk, but current observation does not warrant escalation.",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T17:04:30.139785"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T17:04:57.189155",
+    "observation": {
+      "customer_id": "CUST_123",
+      "usage_drop_percentage": 74,
+      "support_tickets_last_month": 6,
+      "revenue_drop_percentage": 35
+    },
+    "decision": {
+      "decision_type": "churn_risk",
+      "decision_value": "LOW",
+      "reason": "Recent past decisions indicate repeated HIGH churn risk, but current observation does not warrant escalation.",
+      "recommended_action": "No immediate action",
+      "agent": "ChurnRiskAgent",
+      "timestamp": "2026-01-03T17:04:57.188960"
+    }
   }
 ]
